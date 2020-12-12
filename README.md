@@ -1,4 +1,7 @@
-# homework_1
+# Code Refactor BJ
+
 The images rest in a folder called images which lives on the main level.
 
-due 121220
+stles.css and index.htm. also rest at the main level.
+
+
