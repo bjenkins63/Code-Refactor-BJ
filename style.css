@@ -16,27 +16,27 @@ body {
     color: #ffffff;
 }
 
-.header h1 {
-    display: inline-block;
-    font-size: 48px;
-}
+        .header h1 {
+            display: inline-block;
+            font-size: 48px;
+        }
 
-.header h1 .seo {
-    color: #d9dcd6;
-}
+        .header h1 .seo {
+            color: #d9dcd6;
+        }
 
-.header div {
-    padding-top: 15px;
-    margin-right: 20px;
-    float: right;
-    font-family: ‘Gill Sans’, ‘Gill Sans MT’, Calibri, ‘Trebuchet MS’, sans-serif;
-    font-size: 20px;
-}
+        .header div {
+            padding-top: 15px;
+            margin-right: 20px;
+            float: right;
+            font-family: ‘Gill Sans’, ‘Gill Sans MT’, Calibri, ‘Trebuchet MS’, sans-serif;
+            font-size: 20px;
+        }
 
-.header div ul li {
-    display: inline-block;
-    margin-left: 25px;
-}
+        .header div ul li {
+            display: inline-block;
+            margin-left: 25px;
+        }
 
 a {
     color: #ffffff;
@@ -121,6 +121,6 @@ p {
     text-align: center;
 }
 
-.footer h2 {
-    font-size: 20px;
-}
+    .footer h2 {
+        font-size: 20px;
+    }
