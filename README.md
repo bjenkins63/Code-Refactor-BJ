@@ -1,7 +1,18 @@
-# Code Refactor BJ
+# Code Refractor
 
-The images rest in a folder called images which lives on the main level.
+## Description
+A refactored site for client.
 
-style.css and index.htm. also rest at the main level.
+
+## Screenshot
+
+![](images/homepage.jpg)
+
+_________
+
+## Usage
+A full service client website.
 
 
+
+* Github[Github]https://github.com/bjenkins63/Code-Refactor-BJ
